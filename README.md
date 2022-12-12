@@ -39,4 +39,3 @@ If the latest keybindings for your OS are missing, let me know, or open a PR!
 * Run the python script `vs-code-default-keybindings/scripts/process_json.py`. You should see a result like `Wrote to ../linux.keybindings.json`.
 
 * You now have an up-to-date `.keybindings.json`. Feel free to send a PR to this project.
-
