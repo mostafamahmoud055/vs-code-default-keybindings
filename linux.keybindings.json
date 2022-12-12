@@ -1339,6 +1339,3 @@
   { "key": "shift+alt+h",           "command": "references-view.showCallHierarchy",
                                        "when": "editorHasCallHierarchyProvider" }
   ]
-  
-  
-  
